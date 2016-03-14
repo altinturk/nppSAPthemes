@@ -7,6 +7,9 @@ http://scn.sap.com/people/manish.kumar19/blog/2013/12/27/abap-syntax-highlightin
 Script Logic keyword list is based on Madis Udam's SAP Community Network website post:
 https://scn.sap.com/community/epm/planning-and-consolidation-for-microsoft/blog/2012/05/04/script-logic-syntax-for-notepad
 
+You can download the files from 'Download ZIP' button above on the right.
+
+
 All copyrights belong to their respective owners.
-If you want to improve the skin/color set feel free to fork it.
+If you want to improve the color scheme, feel free to fork the repo.
 If you made comprehensive changes your code is more than welcome to be added, so the scheme can be improved further.
